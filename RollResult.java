@@ -111,6 +111,6 @@ public class RollResult { // Lỗi cú pháp: Thêm dấu '{' mở đầu classc
     }
     /**
      * Refactor: Sửa lỗi cú pháp: Thêm dấu '}' ở cuối class Lý do: Trình biên
-     * dịch Java không tìm thấy dấu '}' để đóng class -> Báo lỗi
+     * dịch Java không tìm thấy dấu '}' để đóng class -> Báo lỗi.
      */
 }
